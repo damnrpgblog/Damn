@@ -10,34 +10,6 @@
     },
     "items": [
         {
-            "id": "https://eleven11spiders.github.io/Damn/1.html",
-            "url": "https://eleven11spiders.github.io/Damn/1.html",
-            "title": "1",
-            "summary": "Добавьте свой ритуал Имя: Текст сообщения: Отправить Очистить",
-            "content_html": "<div><form action=\"/\" method=\"post\">\n<p class=\"msg msg--info\"><strong>Добавьте свой ритуал</strong></p>\n<p class=\"msg msg--info\"><label>Имя: <input type=\"text\" placeholder=\"Введите ваше имя\"><br></label><strong>Текст сообщения:</strong><br><label style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;\"><textarea style=\"width: 273px; height: 58px;\" required=\"\" placeholder=\"Введите ваше сообщение\"></textarea><br></label><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"> </span><label style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;\"><button type=\"submit\">Отправить</button> <button type=\"reset\">Очистить</button></label></p>\n</form>\n</div>\n\n  <p>\n    \n  </p>",
-            "author": {
-                "name": "Elvie"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-03-21T12:02:08+05:00",
-            "date_modified": "2023-03-21T12:02:08+05:00"
-        },
-        {
-            "id": "https://eleven11spiders.github.io/Damn/kastomnye-ritualy-dlya-ua.html",
-            "url": "https://eleven11spiders.github.io/Damn/kastomnye-ritualy-dlya-ua.html",
-            "title": "Кастомные ритуалы для UA",
-            "summary": "Добавьте свой ритуал Имя: Текст сообщения: Отправить Очистить",
-            "content_html": "<form action=\"/\" method=\"post\">\n<p class=\"msg msg--info\"><strong>Добавьте свой ритуал</strong></p>\n<p class=\"msg msg--info\"><label>Имя: <input type=\"text\" placeholder=\"Введите ваше имя\"><br></label><strong>Текст сообщения:</strong><br><label style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;\"><textarea style=\"width: 273px; height: 58px;\" required=\"\" placeholder=\"Введите ваше сообщение\"></textarea><br></label><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"> </span><label style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;\"><button type=\"submit\">Отправить</button> <button type=\"reset\">Очистить</button></label></p>\n</form>",
-            "author": {
-                "name": "Elvie"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-03-21T11:41:46+05:00",
-            "date_modified": "2023-03-21T11:48:15+05:00"
-        },
-        {
             "id": "https://eleven11spiders.github.io/Damn/referens-list.html",
             "url": "https://eleven11spiders.github.io/Damn/referens-list.html",
             "title": "Референс-лист",
@@ -49,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2023-03-21T10:09:24+05:00",
-            "date_modified": "2023-03-21T11:15:59+05:00"
+            "date_modified": "2023-03-21T12:29:05+05:00"
         }
     ]
 }
