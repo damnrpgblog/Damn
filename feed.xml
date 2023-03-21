@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Damned RPG Web</title>
+    <link href="https://eleven11spiders.github.io/Damn/feed.xml" rel="self" />
+    <link href="https://eleven11spiders.github.io/Damn" />
+    <updated>2023-03-21T12:02:08+05:00</updated>
+    <author>
+        <name>Elvie</name>
+    </author>
+    <id>https://eleven11spiders.github.io/Damn</id>
+
+    <entry>
+        <title>1</title>
+        <author>
+            <name>Elvie</name>
+        </author>
+        <link href="https://eleven11spiders.github.io/Damn/1.html"/>
+        <id>https://eleven11spiders.github.io/Damn/1.html</id>
+
+        <updated>2023-03-21T12:02:08+05:00</updated>
+            <summary>
+                <![CDATA[
+                    Добавьте свой ритуал Имя: Текст сообщения: Отправить Очистить
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><form action="/" method="post">
+<p class="msg msg--info"><strong>Добавьте свой ритуал</strong></p>
+<p class="msg msg--info"><label>Имя: <input type="text" placeholder="Введите ваше имя"><br></label><strong>Текст сообщения:</strong><br><label style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;"><textarea style="width: 273px; height: 58px;" required="" placeholder="Введите ваше сообщение"></textarea><br></label><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span><label style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;"><button type="submit">Отправить</button> <button type="reset">Очистить</button></label></p>
+</form>
+</div>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Кастомные ритуалы для UA</title>
+        <author>
+            <name>Elvie</name>
+        </author>
+        <link href="https://eleven11spiders.github.io/Damn/kastomnye-ritualy-dlya-ua.html"/>
+        <id>https://eleven11spiders.github.io/Damn/kastomnye-ritualy-dlya-ua.html</id>
+
+        <updated>2023-03-21T11:48:15+05:00</updated>
+            <summary>
+                <![CDATA[
+                    Добавьте свой ритуал Имя: Текст сообщения: Отправить Очистить
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <form action="/" method="post">
+<p class="msg msg--info"><strong>Добавьте свой ритуал</strong></p>
+<p class="msg msg--info"><label>Имя: <input type="text" placeholder="Введите ваше имя"><br></label><strong>Текст сообщения:</strong><br><label style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;"><textarea style="width: 273px; height: 58px;" required="" placeholder="Введите ваше сообщение"></textarea><br></label><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span><label style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;"><button type="submit">Отправить</button> <button type="reset">Очистить</button></label></p>
+</form>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Референс-лист</title>
+        <author>
+            <name>Elvie</name>
+        </author>
+        <link href="https://eleven11spiders.github.io/Damn/referens-list.html"/>
+        <id>https://eleven11spiders.github.io/Damn/referens-list.html</id>
+
+        <updated>2023-03-21T11:15:59+05:00</updated>
+            <summary>
+                <![CDATA[
+                    Я люблю жуткие статьи из Wikipedia, странные треды в архивах имиджобордов и кино категории /B/. Это все полезно, чтобы качать насмотренность и добавлять интересные детали в свои игры. Редакция блога представляет вам собственный референс-лист сайт для игры в жанре хоррора. Его собирали Дюки со всех концов&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 400;">Я люблю жуткие статьи из Wikipedia, странные треды в архивах имиджобордов и кино категории /B/. Это все полезно, чтобы качать насмотренность и добавлять интересные детали в свои игры.</span></p>
+<p><span style="font-weight: 400;">Редакция блога представляет вам собственный референс-<span style="text-decoration: line-through;">лист</span> сайт для игры в жанре хоррора. Его собирали Дюки со всех концов интернета конкретно для <strong>Unknown Armies</strong>. Но можете использовать для <strong>Call Of Cthulhu, Delta Green, VTM</strong> и других систем. Мне, на самом деле, все равно.</span></p>
+<p class="msg msg--warning align-left"><span style="font-weight: 400;"><strong>☝ Я не претендую на авторство.</strong> Все это мы находили скопом у других контент-мейкеров или пользователей сети. «Чертов НРИ блог» только собрал все вместе и перевел в удобоваримую форму.<br></span></p>
+<h6 class="align-center"><strong>Идеи для Unknown Armies c <em>4chan</em></strong></h6>
+<p><em>Ходят слухи что...</em></p>
+<ul>
+<li>Лох-несское чудовище - мутировавшеая корова-монстр. Ее создали случайно в 1973 году или около того. Несси редко видят воде, потому что она не живет в озере, а просто плавает там время от времени.</li>
+<li>Рецепт бессмертия прост. Это цветы лотоса, молоко и мед. Правда настоящие цветы лотоса давно исчезли с земли. Их, одно за другим, последние триста лет унечтожал так называемый Культ Гильгамеша. То, что вы видите сегодня в пруду, - это просто сложная мистификация. <br><br></li>
+<li>Каждый раз, когда происходит массовое отключение электричества, можно встретить человека в черном плаще и птичьей маске, играющего на флейте. Впервые его увидели в обесточенном Лондоне в период Второй Мировой.<br><br></li>
+<li>Человечество всегда боялось бегающих в темноте тварей, существ с инсектоидными особенностями и слишком большим количеством ног. Хотя большинство из них вообще не причиняют вреда, а те, у кого были причины бояться пауков и клопов, обычно не выживают, чтобы передать информацию. Тогда почему человечество так боится? Глубоко в Уральских горах есть секретная военная база. Ее основали беженцы из стран "Оси" времен Второй Мировой войны. В закрытых лабораториях они создают генетически-модифицированных пауков размером с небольшую машину. Эти членистоногие умные, невероятно сильные, могут ползать по стенам и плести паутину. На кончиках ног у них есть несколько цепких "пальцев". Благдоаря им пауки могут использовать современное оружие и технологии.<br><br></li>
+<li>Если просвистеть старый немецкий гимн в горах Нормандии, можно услышать гром. Даже в солнечный день.<br><br></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
