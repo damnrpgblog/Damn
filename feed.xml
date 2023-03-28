@@ -3,7 +3,7 @@
     <title>Damned RPG Web</title>
     <link href="https://damnrpgblog.github.io/Damn/feed.xml" rel="self" />
     <link href="https://damnrpgblog.github.io/Damn" />
-    <updated>2023-03-28T17:00:54+05:00</updated>
+    <updated>2023-03-28T17:03:30+05:00</updated>
     <author>
         <name>Elvie</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/"/>
         <id>https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/</id>
 
-        <updated>2023-03-28T17:00:54+05:00</updated>
+        <updated>2023-03-28T17:03:30+05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -25,8 +25,8 @@
 <script language="JavaScript">
 <!--
 var r_text = new Array ();
-r_text[0] = "All the leaves are brown";
-r_text[1] = "And the sky is grey";
+r_text[0] = "Лох-несское чудовище - мутировавшая корова-монстр. Ее создали случайно в 1973 году или около того. Несси редко видят в воде, потому что она не живет в озере, а просто плавает там время от времени.";
+r_text[1] = "Рецепт бессмертия прост. Это цветы лотоса, молоко и мед. Правда настоящие цветы лотоса давно исчезли с земли. Их, одно за другим, последние триста лет унечтожал так называемый Культ Гильгамеша. То, что вы видите сегодня в пруду, - это просто сложная мистификация.";
 r_text[2] = "I've been for a walk";
 r_text[3] = "On a winter's day";
 r_text[4] = "I'd be safe and warm";

@@ -13,14 +13,14 @@
             "id": "https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/",
             "url": "https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/",
             "title": "Генератор случайных слухов",
-            "content_html": "<p>\n<script language=\"JavaScript\">\n<!--\nvar r_text = new Array ();\nr_text[0] = \"All the leaves are brown\";\nr_text[1] = \"And the sky is grey\";\nr_text[2] = \"I've been for a walk\";\nr_text[3] = \"On a winter's day\";\nr_text[4] = \"I'd be safe and warm\";\nr_text[5] = \"If I was in L.A.\";\nr_text[6] = \"California dreaming, On such a winter's day\";\nvar i = Math.floor(7*Math.random())\n\ndocument.write(r_text[i]);\n\n//-->\n</script>\n</p>",
+            "content_html": "<p>\n<script language=\"JavaScript\">\n<!--\nvar r_text = new Array ();\nr_text[0] = \"Лох-несское чудовище - мутировавшая корова-монстр. Ее создали случайно в 1973 году или около того. Несси редко видят в воде, потому что она не живет в озере, а просто плавает там время от времени.\";\nr_text[1] = \"Рецепт бессмертия прост. Это цветы лотоса, молоко и мед. Правда настоящие цветы лотоса давно исчезли с земли. Их, одно за другим, последние триста лет унечтожал так называемый Культ Гильгамеша. То, что вы видите сегодня в пруду, - это просто сложная мистификация.\";\nr_text[2] = \"I've been for a walk\";\nr_text[3] = \"On a winter's day\";\nr_text[4] = \"I'd be safe and warm\";\nr_text[5] = \"If I was in L.A.\";\nr_text[6] = \"California dreaming, On such a winter's day\";\nvar i = Math.floor(7*Math.random())\n\ndocument.write(r_text[i]);\n\n//-->\n</script>\n</p>",
             "author": {
                 "name": "Elvie"
             },
             "tags": [
             ],
             "date_published": "2023-03-28T16:50:59+05:00",
-            "date_modified": "2023-03-28T17:00:54+05:00"
+            "date_modified": "2023-03-28T17:03:30+05:00"
         },
         {
             "id": "https://damnrpgblog.github.io/Damn/referens-list/",
