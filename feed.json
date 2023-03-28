@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://damnrpgblog.github.io/Damn/kastomnye-ritualy-dlya-ua/",
+            "url": "https://damnrpgblog.github.io/Damn/kastomnye-ritualy-dlya-ua/",
+            "title": "Кастомные ритуалы для UA",
+            "summary": "Добавьте свой ритуал Имя: Текст сообщения: Отправить Очистить var r_text = new Array (); r_text[0] = \"All the leaves are brown\"; r_text[1] =&hellip;",
+            "content_html": "<form action=\"/\" method=\"post\">\n<p class=\"msg msg--info\"><strong>Добавьте свой ритуал</strong></p>\n<p class=\"msg msg--info\"><label>Имя: <input type=\"text\" placeholder=\"Введите ваше имя\"><br></label><strong>Текст сообщения:</strong><br><label style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;\"><textarea style=\"width: 273px; height: 58px;\" required=\"\" placeholder=\"Введите ваше сообщение\"></textarea><br></label><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"> </span><label style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;\"><button type=\"submit\">Отправить</button> <button type=\"reset\">Очистить</button></label></p>\n<p> </p>\n</form>\n<p>\n<script language=\"JavaScript\">\n\nvar r_text = new Array ();\nr_text[0] = \"All the leaves are brown\";\nr_text[1] = \"And the sky is grey\";\nr_text[2] = \"I've been for a walk\";\nr_text[3] = \"On a winter's day\";\nr_text[4] = \"I'd be safe and warm\";\nr_text[5] = \"If I was in L.A.\";\nr_text[6] = \"California dreaming, On such a winter's day\";\nvar i = Math.floor(7*Math.random())\n\ndocument.write(r_text[i]);\n\n</script>\n</p>",
+            "author": {
+                "name": "Elvie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-21T11:41:46+05:00",
+            "date_modified": "2023-03-28T16:35:19+05:00"
+        },
+        {
             "id": "https://damnrpgblog.github.io/Damn/referens-list/",
             "url": "https://damnrpgblog.github.io/Damn/referens-list/",
             "title": "Слухи для Unknown armies",
