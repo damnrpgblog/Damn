@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://eleven11spiders.github.io/Damn/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://damnrpgblog.github.io/Damn/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://eleven11spiders.github.io/Damn/</loc>
+<loc>https://damnrpgblog.github.io/Damn/</loc>
 </url>
 <url>
-<loc>https://eleven11spiders.github.io/Damn/referens-list/</loc>
-<lastmod>2023-03-28T13:06:27+05:00</lastmod>
+<loc>https://damnrpgblog.github.io/Damn/referens-list/</loc>
+<lastmod>2023-03-28T13:10:30+05:00</lastmod>
 <image:image>
-<image:loc>https://eleven11spiders.github.io/Damn/media\posts\1/a3c51b4238d69bb3076f63e18ae45f01.jpg</image:loc>
+<image:loc>https://damnrpgblog.github.io/Damn/media\posts\1/a3c51b4238d69bb3076f63e18ae45f01.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://eleven11spiders.github.io/Damn/media\posts\1/cQ27Dm0jJEk.jpg</image:loc>
+<image:loc>https://damnrpgblog.github.io/Damn/media\posts\1/cQ27Dm0jJEk.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://eleven11spiders.github.io/Damn/media\posts\1/ecUe7Og_6ik.jpg</image:loc>
+<image:loc>https://damnrpgblog.github.io/Damn/media\posts\1/ecUe7Og_6ik.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://eleven11spiders.github.io/Damn/media\posts\1/SrRw-d5Xukw.jpg</image:loc>
+<image:loc>https://damnrpgblog.github.io/Damn/media\posts\1/SrRw-d5Xukw.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://eleven11spiders.github.io/Damn/media\posts\1/MWa7qm_AQj4.jpg</image:loc>
+<image:loc>https://damnrpgblog.github.io/Damn/media\posts\1/MWa7qm_AQj4.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://eleven11spiders.github.io/Damn/media\posts\1/h_EU6Er56NQ.jpg</image:loc>
+<image:loc>https://damnrpgblog.github.io/Damn/media\posts\1/h_EU6Er56NQ.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://eleven11spiders.github.io/Damn/media\posts\1/zhP_-Zv1Avg.jpg</image:loc>
+<image:loc>https://damnrpgblog.github.io/Damn/media\posts\1/zhP_-Zv1Avg.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
