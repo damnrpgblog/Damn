@@ -3,53 +3,12 @@
     <title>Damned RPG Web</title>
     <link href="https://damnrpgblog.github.io/Damn/feed.xml" rel="self" />
     <link href="https://damnrpgblog.github.io/Damn" />
-    <updated>2023-03-28T16:35:19+05:00</updated>
+    <updated>2023-03-28T13:26:39+05:00</updated>
     <author>
         <name>Elvie</name>
     </author>
     <id>https://damnrpgblog.github.io/Damn</id>
 
-    <entry>
-        <title>Кастомные ритуалы для UA</title>
-        <author>
-            <name>Elvie</name>
-        </author>
-        <link href="https://damnrpgblog.github.io/Damn/kastomnye-ritualy-dlya-ua/"/>
-        <id>https://damnrpgblog.github.io/Damn/kastomnye-ritualy-dlya-ua/</id>
-
-        <updated>2023-03-28T16:35:19+05:00</updated>
-            <summary>
-                <![CDATA[
-                    Добавьте свой ритуал Имя: Текст сообщения: Отправить Очистить var r_text = new Array (); r_text[0] = "All the leaves are brown"; r_text[1] =&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <form action="/" method="post">
-<p class="msg msg--info"><strong>Добавьте свой ритуал</strong></p>
-<p class="msg msg--info"><label>Имя: <input type="text" placeholder="Введите ваше имя"><br></label><strong>Текст сообщения:</strong><br><label style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;"><textarea style="width: 273px; height: 58px;" required="" placeholder="Введите ваше сообщение"></textarea><br></label><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span><label style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;"><button type="submit">Отправить</button> <button type="reset">Очистить</button></label></p>
-<p> </p>
-</form>
-<p>
-<script language="JavaScript">
-
-var r_text = new Array ();
-r_text[0] = "All the leaves are brown";
-r_text[1] = "And the sky is grey";
-r_text[2] = "I've been for a walk";
-r_text[3] = "On a winter's day";
-r_text[4] = "I'd be safe and warm";
-r_text[5] = "If I was in L.A.";
-r_text[6] = "California dreaming, On such a winter's day";
-var i = Math.floor(7*Math.random())
-
-document.write(r_text[i]);
-
-</script>
-</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Слухи для Unknown armies</title>
         <author>
