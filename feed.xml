@@ -3,7 +3,7 @@
     <title>Damned RPG Web</title>
     <link href="https://damnrpgblog.github.io/Damn/feed.xml" rel="self" />
     <link href="https://damnrpgblog.github.io/Damn" />
-    <updated>2023-03-28T17:06:33+05:00</updated>
+    <updated>2023-03-28T17:12:44+05:00</updated>
     <author>
         <name>Elvie</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/"/>
         <id>https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/</id>
 
-        <updated>2023-03-28T17:06:33+05:00</updated>
+        <updated>2023-03-28T17:12:44+05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -32,8 +32,7 @@ r_text[3] = "Человечество всегда боялось бегающи
 r_text[4] = "Если просвистеть старый немецкий гимн в горах Нормандии, можно услышать гром. Даже в солнечный день.";
 r_text[5] = "Колокол Свободы в Филадельфии - не символ независимости. Он буквально показывает сколько свободы осталось в мире. То, что он раскололся, как только прозвенел - что-то типа иронии. Они больше не позволяют тебе прикасаться к нему не потому, что он может треснуть, а потому что ты можешь заметить как его состояние ухудшается.";
 r_text[6] = "Белое платье Мэрилин Монро с самой известной ее фотографии уничтожили, а ремешки использовали для связывания коробки с демоном славы внутри. В разные периоды истории этой коробкой владели Джуди Гарланд, Людовик VI и MC Hammer.";
-r_text[7] = "В 90% всех детских хлопьев есть следы LSD.";
-var i = Math.floor(8*Math.random())
+var i = Math.floor(7*Math.random())
 
 document.write(r_text[i]);
 
