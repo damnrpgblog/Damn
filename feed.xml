@@ -3,7 +3,7 @@
     <title>Damned RPG Web</title>
     <link href="https://damnrpgblog.github.io/Damn/feed.xml" rel="self" />
     <link href="https://damnrpgblog.github.io/Damn" />
-    <updated>2023-04-08T18:33:08+05:00</updated>
+    <updated>2023-04-08T18:37:09+05:00</updated>
     <author>
         <name>Elvie</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/"/>
         <id>https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/</id>
 
-        <updated>2023-04-08T18:33:08+05:00</updated>
+        <updated>2023-04-08T18:37:09+05:00</updated>
             <summary>
                 <![CDATA[
                     var r_text = new Array(); r_text[0] = "Лох-несское чудовище - мутировавшая корова-монстр. Ее создали случайно в 1973 году или около того. Несси редко&hellip;
@@ -63,9 +63,8 @@
 				r_text[31] = "Фильм «Мадагаскар» - самый успешный магический эксперимент в истории человечества. 86 минут быстро меняющихся сигилов, и внезапно здоровье Кастро ухудшается. А люди просто уходят из кинозала, думая, что посмотрели семейный фильм. Плюсом, это принесло немного денег.";
 				r_text[32] = "Слезы – побочный продукт души. Какая-бы сущность или искра не таилась в человеке, соленая жидкость выделяется как отходы жизнедеятельности. Вот как вы можете отличить андроида от человека. Попробуйте их слезы на вкус, это просто вода.";
 				var i = Math.floor(33*Math.random())
-			function generate(){
+			
 				document.write(r_text[i]);
-    		}
 </script>
 </p>
             ]]>
