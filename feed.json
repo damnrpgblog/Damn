@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://damnrpgblog.github.io/Damn/test-2/",
+            "url": "https://damnrpgblog.github.io/Damn/test-2/",
+            "title": "test",
+            "summary": "Style Savvy/Style Boutique/Girls Mode Random Generator Random Image Random Color Random Pattern",
+            "content_html": "<h1>Style Savvy/Style Boutique/Girls Mode Random Generator</h1>\n<div id=\"imageDisplay\"><!-- Images will display here --></div>\n<p><button>Random Image</button></p>\n<div id=\"colorDisplay\"><!-- Colors will display here --></div>\n<p><button>Random Color</button></p>\n<div id=\"patternDisplay\"><!-- Colors will display here --></div>\n<p><button>Random Pattern</button>\n<script>var images = [\n'Lively',\n'Eastern',\n'Basic',\n'Girly',\n'Psychedelic',\n'Boho-Chic',\n'Gothic',\n'Baby doll',\n'Bold',\n'Rock',\n'Chic',\n'Feminine',\n'Preppy',]\nfunction newImage() {\nvar randomNumber = Math.floor(Math.random() * (images.length));\ndocument.getElementById('imageDisplay').innerHTML = images[randomNumber];\n}\nvar colors = [\n'White',\n'Grey',\n'Black',\n'Light-Blue',\n'Deep-Blue',\n'Purple',\n'Magenta',\n'Pink',\n'Red',\n'Beige',\n'Brown',\n'Orange',\n'Yellow',\n'Khaki',\n'Yellow-Green',\n'Green',\n'Blue-Green',\n'Silver',\n'Gold',]\nfunction newColor() {\nvar randomNumber = Math.floor(Math.random() * (colors.length));\ndocument.getElementById('colorDisplay').innerHTML = colors[randomNumber];\n}\nvar patterns = [\n'Stripey',\n'Check',\n'Dotty',\n'Flowery',\n'Animal',\n'Camo',\n'Complex',\n'Plain',\n'Logo',\n'Pictures',\n'Stars',\n'Hearts',\n'Ribbons',\n'Minimal',\n]\nfunction newPattern() {\nvar randomNumber = Math.floor(Math.random() * (patterns.length));\ndocument.getElementById('patternDisplay').innerHTML = patterns[randomNumber];\n}</script>\n</p>",
+            "author": {
+                "name": "Elvie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-08T18:59:16+05:00",
+            "date_modified": "2023-04-08T18:59:16+05:00"
+        },
+        {
             "id": "https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/",
             "url": "https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/",
             "title": "Генератор случайных слухов",

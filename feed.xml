@@ -3,12 +3,101 @@
     <title>Damned RPG Web</title>
     <link href="https://damnrpgblog.github.io/Damn/feed.xml" rel="self" />
     <link href="https://damnrpgblog.github.io/Damn" />
-    <updated>2023-04-08T18:37:09+05:00</updated>
+    <updated>2023-04-08T18:59:16+05:00</updated>
     <author>
         <name>Elvie</name>
     </author>
     <id>https://damnrpgblog.github.io/Damn</id>
 
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Elvie</name>
+        </author>
+        <link href="https://damnrpgblog.github.io/Damn/test-2/"/>
+        <id>https://damnrpgblog.github.io/Damn/test-2/</id>
+
+        <updated>2023-04-08T18:59:16+05:00</updated>
+            <summary>
+                <![CDATA[
+                    Style Savvy/Style Boutique/Girls Mode Random Generator Random Image Random Color Random Pattern
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Style Savvy/Style Boutique/Girls Mode Random Generator</h1>
+<div id="imageDisplay"><!-- Images will display here --></div>
+<p><button>Random Image</button></p>
+<div id="colorDisplay"><!-- Colors will display here --></div>
+<p><button>Random Color</button></p>
+<div id="patternDisplay"><!-- Colors will display here --></div>
+<p><button>Random Pattern</button>
+<script>var images = [
+'Lively',
+'Eastern',
+'Basic',
+'Girly',
+'Psychedelic',
+'Boho-Chic',
+'Gothic',
+'Baby doll',
+'Bold',
+'Rock',
+'Chic',
+'Feminine',
+'Preppy',]
+function newImage() {
+var randomNumber = Math.floor(Math.random() * (images.length));
+document.getElementById('imageDisplay').innerHTML = images[randomNumber];
+}
+var colors = [
+'White',
+'Grey',
+'Black',
+'Light-Blue',
+'Deep-Blue',
+'Purple',
+'Magenta',
+'Pink',
+'Red',
+'Beige',
+'Brown',
+'Orange',
+'Yellow',
+'Khaki',
+'Yellow-Green',
+'Green',
+'Blue-Green',
+'Silver',
+'Gold',]
+function newColor() {
+var randomNumber = Math.floor(Math.random() * (colors.length));
+document.getElementById('colorDisplay').innerHTML = colors[randomNumber];
+}
+var patterns = [
+'Stripey',
+'Check',
+'Dotty',
+'Flowery',
+'Animal',
+'Camo',
+'Complex',
+'Plain',
+'Logo',
+'Pictures',
+'Stars',
+'Hearts',
+'Ribbons',
+'Minimal',
+]
+function newPattern() {
+var randomNumber = Math.floor(Math.random() * (patterns.length));
+document.getElementById('patternDisplay').innerHTML = patterns[randomNumber];
+}</script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Генератор случайных слухов</title>
         <author>
