@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://damnrpgblog.github.io/Damn/test/",
+            "url": "https://damnrpgblog.github.io/Damn/test/",
+            "title": "test",
+            "summary": "Today is import datetime as dt pyscript.write('today', dt.date.today().strftime('%A %B %d, %Y'))",
+            "content_html": "<div>\n<script defer=\"defer\" src=\"https://pyscript.net/alpha/pyscript.js\"></script>\n<p>Today is <u><label id=\"today\"></label></u></p>\nimport datetime as dt pyscript.write('today', dt.date.today().strftime('%A %B %d, %Y'))</div>",
+            "author": {
+                "name": "Elvie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-08T15:56:40+05:00",
+            "date_modified": "2023-04-08T15:56:52+05:00"
+        },
+        {
             "id": "https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/",
             "url": "https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/",
             "title": "Генератор случайных слухов",
