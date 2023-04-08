@@ -3,7 +3,7 @@
     <title>Damned RPG Web</title>
     <link href="https://damnrpgblog.github.io/Damn/feed.xml" rel="self" />
     <link href="https://damnrpgblog.github.io/Damn" />
-    <updated>2023-04-08T17:46:26+05:00</updated>
+    <updated>2023-04-08T17:50:21+05:00</updated>
     <author>
         <name>Elvie</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/"/>
         <id>https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/</id>
 
-        <updated>2023-04-08T17:46:26+05:00</updated>
+        <updated>2023-04-08T17:50:21+05:00</updated>
             <summary>
                 <![CDATA[
                     function rumors(){ var r_text = new Array(); r_text[0] = "Лох-несское чудовище - мутировавшая корова-монстр. Ее создали случайно в 1973 году или около того.
@@ -66,8 +66,8 @@
 			
 			document.getElementById("out").append(r_text[i]);
     }
-			<button>Generate</button></p>
-			<div id="out"></div>
+<button onckick="rumors()">Generate</button></p>
+<div id="out"></div>
 </script>
 </p>
             ]]>
