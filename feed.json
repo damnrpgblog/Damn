@@ -14,14 +14,14 @@
             "url": "https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/",
             "title": "Генератор случайных слухов",
             "summary": "В разработке",
-            "content_html": "<p class=\"msg msg--warning\">В разработке</p>\n<p>\n<script language=\"JavaScript\">\n<!--\nvar r_text = new Array ();\nr_text[0] = \"All the leaves are brown\";\nr_text[1] = \"And the sky is grey\";\nr_text[2] = \"I've been for a walk\";\nr_text[3] = \"On a winter's day\";\nr_text[4] = \"I'd be safe and warm\";\nr_text[5] = \"If I was in L.A.\";\nr_text[6] = \"California dreaming, On such a winter's day\";\nvar i = Math.floor(7*Math.random())\n\ndocument.write(r_text[i]);\n\n//-->\n</script>\n</p>",
+            "content_html": "<p class=\"msg msg--warning\">В разработке</p>\n<div>\n<p>\n<script language=\"JavaScript\">\n<!--\nvar r_text = new Array ();\nr_text[0] = \"All the leaves are brown\";\nr_text[1] = \"And the sky is grey\";\nr_text[2] = \"I've been for a walk\";\nr_text[3] = \"On a winter's day\";\nr_text[4] = \"I'd be safe and warm\";\nr_text[5] = \"If I was in L.A.\";\nr_text[6] = \"California dreaming, On such a winter's day\";\nvar i = Math.floor(7*Math.random())\n\ndocument.write(r_text[i]);\n\n//-->\n</script>\n</p>\n</div>",
             "author": {
                 "name": "Elvie"
             },
             "tags": [
             ],
             "date_published": "2023-03-28T16:50:59+05:00",
-            "date_modified": "2023-04-08T16:19:58+05:00"
+            "date_modified": "2023-04-08T16:21:56+05:00"
         },
         {
             "id": "https://damnrpgblog.github.io/Damn/referens-list/",

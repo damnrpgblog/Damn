@@ -3,7 +3,7 @@
     <title>Damned RPG Web</title>
     <link href="https://damnrpgblog.github.io/Damn/feed.xml" rel="self" />
     <link href="https://damnrpgblog.github.io/Damn" />
-    <updated>2023-04-08T16:19:58+05:00</updated>
+    <updated>2023-04-08T16:21:56+05:00</updated>
     <author>
         <name>Elvie</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/"/>
         <id>https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/</id>
 
-        <updated>2023-04-08T16:19:58+05:00</updated>
+        <updated>2023-04-08T16:21:56+05:00</updated>
             <summary>
                 <![CDATA[
                     В разработке
@@ -26,6 +26,7 @@
         <content type="html">
             <![CDATA[
                 <p class="msg msg--warning">В разработке</p>
+<div>
 <p>
 <script language="JavaScript">
 <!--
@@ -44,6 +45,7 @@ document.write(r_text[i]);
 //-->
 </script>
 </p>
+</div>
             ]]>
         </content>
     </entry>
