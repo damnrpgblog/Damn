@@ -3,7 +3,7 @@
     <title>Damned RPG Web</title>
     <link href="https://damnrpgblog.github.io/Damn/feed.xml" rel="self" />
     <link href="https://damnrpgblog.github.io/Damn" />
-    <updated>2023-04-08T17:36:21+05:00</updated>
+    <updated>2023-04-08T17:43:46+05:00</updated>
     <author>
         <name>Elvie</name>
     </author>
@@ -17,19 +17,17 @@
         <link href="https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/"/>
         <id>https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/</id>
 
-        <updated>2023-04-08T17:36:21+05:00</updated>
+        <updated>2023-04-08T17:43:46+05:00</updated>
             <summary>
                 <![CDATA[
-                    В разработке var r_text = new Array(); r_text[0] = "Лох-несское чудовище - мутировавшая корова-монстр. Ее создали случайно в 1973 году или около того.
+                    function rumors(){ var r_text = new Array(); r_text[0] = "Лох-несское чудовище - мутировавшая корова-монстр. Ее создали случайно в 1973 году или около того.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--warning">В разработке</p>
-<div>
-<p>
+                <p>
 <script language="JavaScript">
-
+	function rumors(){
 			var r_text = new Array();
 			r_text[0] = "Лох-несское чудовище - мутировавшая корова-монстр. Ее создали случайно в 1973 году или около того. Несси редко видят в воде, потому что она не живет в озере, а просто плавает там время от времени.";
 			r_text[1] = "Рецепт бессмертия прост. Это цветы лотоса, молоко и мед. Правда настоящие цветы лотоса давно исчезли с земли. Их, одно за другим, последние триста лет унечтожал так называемый Культ Гильгамеша. То, что вы видите сегодня в пруду, - это просто сложная мистификация.";
@@ -66,10 +64,11 @@
 			r_text[32] = "Слезы – побочный продукт души. Какая-бы сущность или искра не таилась в человеке, соленая жидкость выделяется как отходы жизнедеятельности. Вот как вы можете отличить андроида от человека. Попробуйте их слезы на вкус, это просто вода.";
 			var i = Math.floor(33*Math.random())
 			
-			document.write(r_text[i]);
-		</script>
-</p>
-</div>
+			document.getElementById("out").append(r_text[i]);
+    }
+</script>
+<button>Generate</button></p>
+<div id="out"></div>
             ]]>
         </content>
     </entry>
