@@ -3,7 +3,7 @@
     <title>Damned RPG Web</title>
     <link href="https://damnrpgblog.github.io/Damn/feed.xml" rel="self" />
     <link href="https://damnrpgblog.github.io/Damn" />
-    <updated>2023-04-09T15:58:48+05:00</updated>
+    <updated>2023-04-09T16:05:20+05:00</updated>
     <author>
         <name>Elvie</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/"/>
         <id>https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/</id>
+        <media:content url="https://damnrpgblog.github.io/Damn/media/posts/5/703744949c3021652ed97d87c0a98995.jpg" medium="image" />
 
-        <updated>2023-04-09T15:58:48+05:00</updated>
+        <updated>2023-04-09T16:05:20+05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://damnrpgblog.github.io/Damn/media/posts/5/703744949c3021652ed97d87c0a98995.jpg" alt="" />
                     🔍 Здесь вы можете получить один случайный слух для игры в сеттинге Unknown Armies. Иногда они могут повторяться. Новые варианты периодически появляются. Beta.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://damnrpgblog.github.io/Damn/media/posts/5/703744949c3021652ed97d87c0a98995.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="msg msg--warning">🔍 Здесь вы можете получить один случайный слух для игры в сеттинге Unknown Armies. Иногда они могут повторяться. Новые варианты периодически появляются. Beta.</p>
 <p class="align-center"><button onclick="window.location.reload();">Сгенерировать</button></p>
 <p>
