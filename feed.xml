@@ -3,7 +3,7 @@
     <title>Damned RPG Web</title>
     <link href="https://damnrpgblog.github.io/Damn/feed.xml" rel="self" />
     <link href="https://damnrpgblog.github.io/Damn" />
-    <updated>2023-04-09T14:53:28+05:00</updated>
+    <updated>2023-04-09T15:58:48+05:00</updated>
     <author>
         <name>Elvie</name>
     </author>
@@ -17,15 +17,16 @@
         <link href="https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/"/>
         <id>https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/</id>
 
-        <updated>2023-04-09T14:53:28+05:00</updated>
+        <updated>2023-04-09T15:58:48+05:00</updated>
             <summary>
                 <![CDATA[
-                    Сгенерировать var r_text = new Array(); r_text[0] = "Лох-несское чудовище - мутировавшая корова-монстр. Ее создали случайно в 1973 году или около того. Несси&hellip;
+                    🔍 Здесь вы можете получить один случайный слух для игры в сеттинге Unknown Armies. Иногда они могут повторяться. Новые варианты периодически появляются. Beta.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="align-center"><button onclick="window.location.reload();">Сгенерировать</button></p>
+                <p class="msg msg--warning">🔍 Здесь вы можете получить один случайный слух для игры в сеттинге Unknown Armies. Иногда они могут повторяться. Новые варианты периодически появляются. Beta.</p>
+<p class="align-center"><button onclick="window.location.reload();">Сгенерировать</button></p>
 <p>
 <script language="JavaScript">
 
