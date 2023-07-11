@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://damnrpgblog.github.io/Damn/tickets/",
+            "url": "https://damnrpgblog.github.io/Damn/tickets/",
+            "title": "tickets",
+            "author": {
+                "name": "Elvie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-11T21:04:47+05:00",
+            "date_modified": "2023-07-11T21:04:47+05:00"
+        },
+        {
             "id": "https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/",
             "url": "https://damnrpgblog.github.io/Damn/generator-sluchaynyh-sluhov-2/",
             "title": "Генератор слухов",

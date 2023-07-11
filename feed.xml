@@ -3,12 +3,24 @@
     <title>Damn RPG web</title>
     <link href="https://damnrpgblog.github.io/Damn/feed.xml" rel="self" />
     <link href="https://damnrpgblog.github.io/Damn" />
-    <updated>2023-05-13T18:08:44+05:00</updated>
+    <updated>2023-07-11T21:04:47+05:00</updated>
     <author>
         <name>Elvie</name>
     </author>
     <id>https://damnrpgblog.github.io/Damn</id>
 
+    <entry>
+        <title>tickets</title>
+        <author>
+            <name>Elvie</name>
+        </author>
+        <link href="https://damnrpgblog.github.io/Damn/tickets/"/>
+        <id>https://damnrpgblog.github.io/Damn/tickets/</id>
+
+        <updated>2023-07-11T21:04:47+05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Генератор слухов</title>
         <author>
